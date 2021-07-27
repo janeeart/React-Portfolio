@@ -2,6 +2,7 @@ import "./topbar.scss"
 import {FilterVintage, Person, Mail} from "@material-ui/icons";
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GitHubIcon from '@material-ui/icons/GitHub';
+import DescriptionIcon from '@material-ui/icons/Description';
 
 export default function Topbar({ menuOpen, setMenuOpen }) {
     return (
@@ -24,6 +25,10 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                     <div className="itemContainer">
                     <GitHubIcon className="icon"/>
                     <span><a href="https://github.com/janeeart">GitHub</a></span>
+                    </div>
+                    <div className="itemContainer">
+                    <DescriptionIcon className="icon"/>
+                    <span><a href="https://docs.google.com/document/d/1ZZieQtwlmE4KWoLvibz4Qm8UDyOxY1v7oADfVhTCw_w/edit">Resume</a></span>
                     </div>
                 </div>
                 
