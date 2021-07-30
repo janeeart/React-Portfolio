@@ -7,12 +7,12 @@ export default function Works() {
     const data = [
         {
             id: 1,
-            icon: "./assets/music.png",
-            title: "Artist Master",
-            desc: "A web application for music lovers to find information, including biography and upcoming events, for a chosen music artist. Technologies used in this project include JavaScript, Bulma, and TicketMaster API and AudioDB.",
-            img: "./assets/artistmaster.png",
-            deployed: "https://edodgion.github.io/Project-1-Global-Music/",
-            github: "https://github.com/janeeart/Project-1-Global-Music"
+            icon: "./assets/ballfield.png",
+            title: "VIP sEATs",
+            desc: "This is a web application that allows users to order food, beverages, and merchandise directly to their seat at a sporting event.",
+            img: "./assets/vipseats1.png",
+            deployed: "https://vipseats.herokuapp.com/",
+            github: "https://github.com/janeeart/VIP_sEATs"
         },
     
         {
@@ -27,21 +27,21 @@ export default function Works() {
         },
         {
             id: 3,
+            icon: "./assets/music.png",
+            title: "Artist Master",
+            desc: "A web application for music lovers to find information, including biography and upcoming events, for a chosen music artist. Technologies used in this project include JavaScript, Bulma, and TicketMaster API and AudioDB.",
+            img: "./assets/artistmaster.png",
+            deployed: "https://edodgion.github.io/Project-1-Global-Music/",
+            github: "https://github.com/janeeart/Project-1-Global-Music"
+        },
+        {
+            id: 4,
             icon: "./assets/weathericon.png",
             title: "Weather Dashboard",
             desc: "This web application is a weather dashboard that features dynamically updated HTML and CSS. This web app uses OpenWeather API to retrieve weather data for cities and local storage to store persistent data.",
             img: "./assets/weather.png",
             deployed: "https://janeeart.github.io/Server-Side-APIs-Weather-Dashboard-HW-6/",
             github: "https://github.com/janeeart/Server-Side-APIs-Weather-Dashboard-HW-6"
-        },
-        {
-            id: 4,
-            icon: "./assets/teamicon.png",
-            title: "Team Profile Generator",
-            desc: "This is a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.",
-            img: "./assets/teamprofile.png",
-            deployed: "https://drive.google.com/file/d/1iRAx2_duwoUUXHs2DOWCWXFJJnDjmQ9M/view",
-            github: "https://github.com/janeeart/Object-Oriented-Programming-Team-Profile-Generator-HW-10"
         }
     ];
 
