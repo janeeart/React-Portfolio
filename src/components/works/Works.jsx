@@ -9,7 +9,7 @@ export default function Works() {
             id: 1,
             icon: "./assets/ballfield.png",
             title: "VIP sEATs",
-            desc: "This is a web application that allows users to order food, beverages, and merchandise directly to their seat at a sporting event.",
+            desc: "This is a web application that allows users to order food, beverages, and merchandise directly to their seat at a sporting event. Technologies used in this project include JavaScript, MERN Stack, Stripe, GraphQL, React-Bootstrap, and Apollo Server",
             img: "./assets/vipseats1.png",
             deployed: "https://vipseats.herokuapp.com/",
             github: "https://github.com/janeeart/VIP_sEATs"
