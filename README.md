@@ -23,7 +23,7 @@ The user will run ```npm start``` in the terminal to run the project locally.
 Janée Artis
   
 ## Deployed Site
-https://nervous-bohr-c47847.netlify.app
+https://janeeartis.netlify.app
   
 ## Questions? Contact Me:
 * GitHub: [GitHub Profile](https://github.com/janeeart)
