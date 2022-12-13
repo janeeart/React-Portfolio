@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Topbar from "./components/topbar/Topbar";
 import Intro from "./components/intro/Intro"
-import Works from "./components/works/Works"
+// import Works from "./components/works/Works"
 import Aboutme from "./components/aboutme/Aboutme"
 import Contact from "./components/contact/Contact"
 import Menu from "./components/menu/Menu"
@@ -17,7 +17,6 @@ function App() {
     <div className="sections">
       <Intro />
       <Aboutme/>
-      <Works />
       <Contact />
     </div>
     </div>
